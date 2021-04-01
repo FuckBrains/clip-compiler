@@ -1,0 +1,65 @@
+[
+    {
+        "category": "streamer",
+        "subcategory": "loltyler1",
+        "videotitle": "videotitle",
+        "searchQuery": "51496027",
+        "lastRun": "01/01/0001",
+        "daysInBetweenRuns": 7,
+        "timesRun": "0"
+    },
+    {
+        "category": "streamer",
+        "subcategory": "Greekgodx",
+        "videotitle": "videotitle",
+        "searchQuery": "15310631",
+        "lastRun": "01/01/0001",
+        "daysInBetweenRuns": 7,
+        "timesRun": 0
+    },
+    {
+        "category": "streamer",
+        "subcategory": "m0E_tv",
+        "videotitle": "videotitle",
+        "searchQuery": "36858184",
+        "lastRun": "01/01/0001",
+        "daysInBetweenRuns": 50,
+        "timesRunq": 0
+    },
+    {
+        "category": "streamer",
+        "subcategory": "DrDisrespect",
+        "videotitle": "videotitle",
+        "searchQuery": "17337557",
+        "lastRun": "01/01/0001",
+        "daysInBetweenRuns": 10,
+        "timesRun": 0
+    },
+    {
+        "category": "streamer",
+        "subcategory": "Asmongold",
+        "videotitle": "videotitle",
+        "searchQuery": "26261471",
+        "lastRun": "01/01/0001",
+        "daysInBetweenRuns": 10,
+        "timesRun": 0
+    },
+    {
+        "category": "subreddit",
+        "subcategory": "nba",
+        "videotitle": "videotitle",
+        "searchQuery": "flair:Highlights site:streamable.com OR site:youtube.com",
+        "lastRun": "01/01/0001",
+        "daysInBetweenRuns": 60,
+        "timesRun": 0
+    },
+    {
+        "category": "subreddit",
+        "subcategory": "nfl",
+        "videotitle": "videotitle",
+        "searchQuery": "flair:Highlights site:streamable.com OR site:youtube.com",
+        "lastRun": "01/01/0001",
+        "daysInBetweenRuns": 10000000000000000000000000000000000,
+        "timesRun": 0
+    }
+]

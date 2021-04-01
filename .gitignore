@@ -1,0 +1,8 @@
+__pycache__
+.DS_Store
+.vscode
+CLIENT_SECRET.json
+credentials.storage
+geckodriver.exe
+geckodriver.log
+test.py
